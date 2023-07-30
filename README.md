@@ -6,3 +6,5 @@ Several advances in the domain of single-cell transcriptomics have paved the pat
 
 My Research at the Mid-SURE 2023 Conference: https://symposium.foragerone.com/mid-sure2023/presentations/58413
 <img width="652" alt="Poster Presentation" src="https://github.com/Divyatech-hub/Mid-SURE-Presentation-2023/assets/69458308/261213ba-aacc-4caf-b9ac-b42f8ef5885c">
+
+The DANCE library: https://github.com/OmicsML/dance
